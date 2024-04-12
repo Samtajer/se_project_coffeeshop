@@ -46,8 +46,11 @@ MyProject(2)- "Coffee Shop" is a Web Application in Softwear Engineering Program
 
 ### Screenshots:
 
-[Homepage] [clipboard-image-1712873510.png]
+[Homepage] [HP-Header](images/screenshot_1.png)
 Description: This screenshot shows the Header-Homepage of the Application/Myproject(2)-"Coffee Shop" with featured- ~ -recipes and coresponding Bottons for each added Section.
 
-[Recipes] [clipboard-image-1712873587.png]
+[Recipes] [Recipe-Page](images/screenshot_2.png) 
 Description: The screenshot shows the details of a specific recipe, including (2-Videos) embade from-"Youtoube" shows ingredients and instructions.
+
+
+
