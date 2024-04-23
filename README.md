@@ -76,7 +76,10 @@ Below the button-a hyperlink stating "I agree with terms of use", suggesting use
 Overall, the form is user-friendly, clear layout that prompts-guide users process booking a table. The mandatory fields are clearly marked-ensure essential information is not missed.
 
 - [Screenshot available] Next>>
-- >> ![Full-Page/Screenshot]+[Section/Reservation-Book a Table](Screenshot-Reservation.png)
+- >> ![Screenshot/Full-Page/Reservation/Book a Table](screenshot-image-reservation.png)
+
+
+
 
 
 
