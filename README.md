@@ -58,7 +58,7 @@ Description: The screenshot shows the details of a specific recipe, including (2
 - Technuiqe & Technologie Used.
 - Advanced HTML/CSS.
 - BEM/Mix Blocks-Mix-Elements, html/css - 
-- <form> <label> <input> <fieldset> <button> (Type/Placeholders/Class/require).
+- [form--fieldset-label-input-button]--(Type/Placeholders/Class/require).
 - Flexbox.
 - Background-images.
 - Styles/Pseudo/Hover.
@@ -75,4 +75,8 @@ At the bottom of the form, there is a "Book a Table" button, to submit the reser
 Below the button-a hyperlink stating "I agree with terms of use", suggesting users-accept the terms of service before completing the reservation.
 Overall, the form is user-friendly, clear layout that prompts-guide users process booking a table. The mandatory fields are clearly marked-ensure essential information is not missed.
 
-![Reservation/Book a Table](image.png)
+- [Screenshot available] Next>>
+- >> ![Full-Page/Screenshot]+[Section/Reservation-Book a Table](Screenshot-Reservation.png)
+
+
+
