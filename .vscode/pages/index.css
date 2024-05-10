@@ -1,0 +1,150 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page.css);
+@import url(../blocks/header.css);
+@import url(../blocks/nav.css);
+@import url(../blocks/recipes.css);
+@import url(../blocks/reservation.css);
+@import url(../blocks/form.css);
+@import url(../blocks/about.css);
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  position: relative;
+}
+
+.menu {
+  background-color: #fff;
+  background-image: url(../images/background_menu.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 100px 0 100px;
+}
+
+.menu__title {
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  margin: 0 0 24px;
+  max-width: 780px;
+  padding: 0 400px;
+}
+
+.menu__subtitle {
+ text-align: center;
+ font-family: "Noto Serif";
+ font-style: normal;
+ font-weight: normal;
+ font-size: 20px;
+ line-height: 30px;
+ padding: 0 0 100px;
+ max-width: 780px;
+ margin: 0 auto;
+}
+
+.menu__cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+  gap: 100px;
+  padding: 0;
+  margin: 0;
+}
+
+.card {
+  width: 540px;
+}
+
+.card__title {
+  margin: 0 0 32px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.card__list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.card__list-item {
+  margin: 0 0 16px;
+  display: flex;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+
+.card__list-divider {
+  flex-grow: 1;
+  border-bottom: 1px solid #000;
+}
+
+.about {
+  background-color: #0a2850;
+  padding: 100px 80px 100px;
+  position: relative;
+  overflow: hidden;
+}
+
+.about__title {
+  color: #fff;
+  max-width: 251px;
+  margin: 0;
+  z-index: 2;
+  position: relative;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.about__content {
+color: #fff;
+max-width: 660px;
+padding-top: 19px;
+transform: translate(770px, -61px);
+padding-bottom: 73px;
+font-family: "Noto Serif";
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+}
+
+.about__paragraph {
+ margin: 20px 0;
+}
+
+.about__circle {
+  position: absolute;
+  width: 426px;
+  height: 426px;
+  background-color: #2f80ed;
+  border-radius: 50%;
+  z-index: 1;
+  top: -152px;
+  left: -129px;
+  
+}
+
+.about__circle_animation_blurred {
+  animation: pulsate 1.3s ease-in-out infinite;
+ }
+
