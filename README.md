@@ -82,7 +82,7 @@ Overall, the form is user-friendly, clear layout that prompts-guide users proces
 - The "Menu" as its name makes it mostly clear is about the part for your order from the Products that are offered in the Menu page/section.
 - In the Menu section are bewarages and some Food like products offered and so the prises & costs are listed to every products its cost in $.
 
-- Technuiqe & Technologie Used
+- Technuiqes & Technologie Used
 
 - There is a [blocks-directory--BEM-blocks] packed in [separate-CSS-files] the [Flat-BEM].
 - There is a directory with all the images [image/directory].
@@ -93,7 +93,7 @@ Overall, the form is user-friendly, clear layout that prompts-guide users proces
 - There is a [.editorconfig/file].
 - And a [.prettierignore/file-tells-Prettier-ignore-normalize.css].
 - A [.gitignore-file-tells-Git-ignore-.DS_Store].
-  Technuiqe used :
+- Technuiqes used :
 - [html/css] -- [Meta-tags].
 - [Fonts/Fallback-Fonts].
 - [Posioning-Absolute](Top,B,R,L)-|-[display](Flex/Grid).
@@ -111,8 +111,8 @@ Overall, the form is user-friendly, clear layout that prompts-guide users proces
 
 - [Myproject(2)][def].
 
-[def]: image.png
+[def]: ../se_project_coffeeshop/images/image.png
 
 ![**Myproject(2)screenshot**][def2]
 
-[def2]: clipboard-image-1715734165.png
+[def2]: ../se_project_coffeeshop/images/clipboard-image-1715734165.png 
